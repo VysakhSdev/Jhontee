@@ -3140,11 +3140,16 @@ body .colors .active p {
   
 }
 .pa-banner-category{
-    color: #9b8518;
+    color: #f2db6c;
 }
 .since{
-    padding-top: 50px;
-    color: green;
+    padding-top: 60px;
+    color:#edc401;
+    font-size: 55px;
+
+}
+.para{
+    font-size: 10;
 }
 
 .row{
